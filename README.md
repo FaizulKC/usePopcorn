@@ -1,3 +1,28 @@
+# usePopcorn
+
+A movie search and watchlist application built with React.
+
+## Features
+
+- Search movies
+- View movie details
+- Add movies to watchlist
+- Store watchlist locally
+
+## Technologies
+
+- React
+- JavaScript
+- CSS
+- OMDb API
+
+## Installation
+
+```bash
+npm install
+npm run dev
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
